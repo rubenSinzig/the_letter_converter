@@ -20,7 +20,10 @@ body {
   height: 3rem;
   background-color: rgb(32, 32, 32);
   border-radius: 0 7px 7px 0;
-  box-shadow: 4px 8px 12px salmon;
+
+  &:hover {
+    box-shadow: 3px 6px 10px salmon;
+  }
 
   h1 {
     padding-top: 5px;
