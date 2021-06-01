@@ -101,3 +101,17 @@ body {
     outline: none;
   }
 }
+
+// Footer
+.wrapper-footer {
+  width: 100vw;
+  height: 2rem;
+  background-color: rgb(32, 32, 32);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: salmon;
+  padding: 5px;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+}

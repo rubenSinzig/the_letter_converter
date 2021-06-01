@@ -10,7 +10,7 @@ function App() {
       <Header />
       <Input />
       <Output />
-      {/* <Footer /> */}
+      <Footer />
     </React.Fragment>
   );
 }
