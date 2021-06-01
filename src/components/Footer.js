@@ -1,5 +1,8 @@
 const Footer = () => {
-  // add here var and function for Copyright year
+  // to get the full year
+  const year = new Date().getFullYear();
+  document.querySelector(".year").innerHTML = year;
+
   return (
     <div className="wrapper-footer">
       Copyright<sup>©</sup> <span className="year"></span>
