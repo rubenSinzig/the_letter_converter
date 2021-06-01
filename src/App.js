@@ -8,9 +8,9 @@ function App() {
   return (
     <React.Fragment>
       <Header />
-      {/* <Input />
+      <Input />
       <Output />
-      <Footer /> */}
+      {/* <Footer /> */}
     </React.Fragment>
   );
 }
