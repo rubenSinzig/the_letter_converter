@@ -1,5 +1,5 @@
 const Footer = () => {
-  // to get the full year
+  // var to get the full year
   const year = new Date().getFullYear();
 
   return (
