@@ -2,7 +2,7 @@
 
 ## Project Name
 
-**[View Project](https://rubensinzig.github.io/morse-code/)**
+**[View Project](https://rubensinzig.github.io/the_letter_converter/)**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-[![Screenshot from Project](/public/images/readme-screenshot.gif)](https://rubensinzig.github.io/morse-code/)
+[![Screenshot from Project](/public/images/readme-screenshot.gif)](https://rubensinzig.github.io/the_letter_converter/)
 
 ### About Project
 
