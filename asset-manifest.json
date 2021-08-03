@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/morse-code/static/css/main.80f2224c.chunk.css",
-    "main.js": "/morse-code/static/js/main.02794ce4.chunk.js",
-    "main.js.map": "/morse-code/static/js/main.02794ce4.chunk.js.map",
-    "runtime-main.js": "/morse-code/static/js/runtime-main.982bbd76.js",
-    "runtime-main.js.map": "/morse-code/static/js/runtime-main.982bbd76.js.map",
-    "static/js/2.d5f59220.chunk.js": "/morse-code/static/js/2.d5f59220.chunk.js",
-    "static/js/2.d5f59220.chunk.js.map": "/morse-code/static/js/2.d5f59220.chunk.js.map",
-    "index.html": "/morse-code/index.html",
-    "static/css/main.80f2224c.chunk.css.map": "/morse-code/static/css/main.80f2224c.chunk.css.map",
-    "static/js/2.d5f59220.chunk.js.LICENSE.txt": "/morse-code/static/js/2.d5f59220.chunk.js.LICENSE.txt"
+    "main.css": "/the_letter_converter/static/css/main.80f2224c.chunk.css",
+    "main.js": "/the_letter_converter/static/js/main.02794ce4.chunk.js",
+    "main.js.map": "/the_letter_converter/static/js/main.02794ce4.chunk.js.map",
+    "runtime-main.js": "/the_letter_converter/static/js/runtime-main.b010e265.js",
+    "runtime-main.js.map": "/the_letter_converter/static/js/runtime-main.b010e265.js.map",
+    "static/js/2.d5f59220.chunk.js": "/the_letter_converter/static/js/2.d5f59220.chunk.js",
+    "static/js/2.d5f59220.chunk.js.map": "/the_letter_converter/static/js/2.d5f59220.chunk.js.map",
+    "index.html": "/the_letter_converter/index.html",
+    "static/css/main.80f2224c.chunk.css.map": "/the_letter_converter/static/css/main.80f2224c.chunk.css.map",
+    "static/js/2.d5f59220.chunk.js.LICENSE.txt": "/the_letter_converter/static/js/2.d5f59220.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.982bbd76.js",
+    "static/js/runtime-main.b010e265.js",
     "static/js/2.d5f59220.chunk.js",
     "static/css/main.80f2224c.chunk.css",
     "static/js/main.02794ce4.chunk.js"
